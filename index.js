@@ -543,7 +543,7 @@ const DASHBOARD_HTML = `<!DOCTYPE html>
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<title>ayush <:3 — Control Center</title>
+<title>9AMAN X YAMDHUD — Control Center</title>
 <style>
   *{box-sizing:border-box;margin:0;padding:0}
   html,body{height:100%}
@@ -783,7 +783,7 @@ const DASHBOARD_HTML = `<!DOCTYPE html>
 
 <div class="container">
   <div class="brand">
-    <h1>AYUSH <span class="x">X</span> D3VIK9</h1>
+    <h1>9MAN <span class="x">X</span> YAMDHUD</h1>
     <p>WhatsApp Control Center</p>
   </div>
 
@@ -919,7 +919,7 @@ const DASHBOARD_HTML = `<!DOCTYPE html>
 
           <div class="field">
             <label>🔒 Group Name Lock (optional)</label>
-            <input id="groupLockInput" type="text" placeholder="e.g. D3VIK9 (leave empty = all selected)"/>
+            <input id="groupLockInput" type="text" placeholder="e.g. YAMDHUD (leave empty = all selected)"/>
             <div class="hint">Sirf unhi groups me jayega jinke naam me ye text hoga (case-insensitive).</div>
           </div>
 
@@ -942,7 +942,7 @@ const DASHBOARD_HTML = `<!DOCTYPE html>
 
           <div class="field">
             <label>Hater Name (optional prefix)</label>
-            <input id="haterInput" type="text" placeholder="e.g. AYUSH X D3VIK9"/>
+            <input id="haterInput" type="text" placeholder="e.g. 9man X YAMDHUT"/>
           </div>
           <div class="field">
             <label>Delay (seconds) — minimum 3s</label>
@@ -950,7 +950,7 @@ const DASHBOARD_HTML = `<!DOCTYPE html>
           </div>
           <div class="field">
             <label>Last Hater Name (optional suffix)</label>
-            <input id="lastHaterInput" type="text" placeholder="e.g. D3VIK9 "/>
+            <input id="lastHaterInput" type="text" placeholder="e.g. YAMDHUD "/>
           </div>
 
           <div class="btnrow">
@@ -1036,7 +1036,7 @@ const DASHBOARD_HTML = `<!DOCTYPE html>
     </div>
   </div>
 
-  <div class="footer">AYUSH X D3VIK9 © — Secure Session</div>
+  <div class="footer">9MAN X YAMDHUT © — Secure Session</div>
 </div>
 
 <script>
