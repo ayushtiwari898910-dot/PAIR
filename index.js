@@ -9,6 +9,9 @@ const express = require('express');
 const pino = require('pino');
 const fs = require('fs');
 const crypto = require('crypto');
+if (typeof global.crypto === 'undefined') {
+  global.crypto = crypto;
+}
 const multer = require('multer');
 
 const PORT = process.env.PORT || 25029;
