@@ -8,8 +8,9 @@ const { Boom } = require('@hapi/boom');
 const express = require('express');
 const pino = require('pino');
 const fs = require('fs');
-const multer = require('multer');
 const crypto = require('crypto');
+const multer = require('multer');
+
 const PORT = process.env.PORT || 25029;
 const HOST = '0.0.0.0';
 const AUTH_DIR = 'auth_info_baileys';
